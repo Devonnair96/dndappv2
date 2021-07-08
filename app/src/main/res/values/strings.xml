@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dndDBstatstest</string>
+    <string name="CharacterName">Character Name</string>
+    <string name="Strength">Strength</string>
+    <string name="Dexterity">Dexterity</string>
+    <string name="Constitution">Constitution</string>
+    <string name="Wisdom">Wisdom</string>
+    <string name="Intelligence">Intelligence</string>
+    <string name="Charisma">Charisma</string>
+    <string name="Store">Store</string>
+    <string name="ViewAll">View All</string>
+</resources>
