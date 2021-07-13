@@ -8,5 +8,5 @@
     <string name="Intelligence">Intelligence</string>
     <string name="Charisma">Charisma</string>
     <string name="Store">Store</string>
-    <string name="ViewAll">View All</string>
+    <string name="AddEntry">AddEntry</string>
 </resources>
